@@ -1,0 +1,13 @@
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\bin\Debug\netcoreapp3.1\Lproblem5.7.exe
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\bin\Debug\netcoreapp3.1\Lproblem5.7.deps.json
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\bin\Debug\netcoreapp3.1\Lproblem5.7.runtimeconfig.json
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\bin\Debug\netcoreapp3.1\Lproblem5.7.runtimeconfig.dev.json
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\bin\Debug\netcoreapp3.1\Lproblem5.7.dll
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\bin\Debug\netcoreapp3.1\Lproblem5.7.pdb
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.csprojAssemblyReference.cache
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.csproj.CoreCompileInputs.cache
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.AssemblyInfoInputs.cache
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.AssemblyInfo.cs
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.dll
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.pdb
+F:\visual_studio\lessonproblem\Lproblem5.7\Lproblem5.7\obj\Debug\netcoreapp3.1\Lproblem5.7.genruntimeconfig.cache

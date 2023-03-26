@@ -1,0 +1,10 @@
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.csprojAssemblyReference.cache
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.Form1.resources
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.Properties.Resources.resources
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.csproj.GenerateResource.cache
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.csproj.CoreCompileInputs.cache
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\bin\Debug\windowproblem2.exe.config
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\bin\Debug\windowproblem2.exe
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\bin\Debug\windowproblem2.pdb
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.exe
+F:\visual_studio\lessonproblem\windowproblem2\windowproblem2\obj\Debug\windowproblem2.pdb

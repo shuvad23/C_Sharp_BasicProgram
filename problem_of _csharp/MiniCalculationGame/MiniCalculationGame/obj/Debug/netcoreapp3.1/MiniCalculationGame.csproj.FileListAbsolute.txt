@@ -1,0 +1,13 @@
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\bin\Debug\netcoreapp3.1\MiniCalculationGame.exe
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\bin\Debug\netcoreapp3.1\MiniCalculationGame.deps.json
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\bin\Debug\netcoreapp3.1\MiniCalculationGame.runtimeconfig.json
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\bin\Debug\netcoreapp3.1\MiniCalculationGame.runtimeconfig.dev.json
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\bin\Debug\netcoreapp3.1\MiniCalculationGame.dll
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\bin\Debug\netcoreapp3.1\MiniCalculationGame.pdb
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.csprojAssemblyReference.cache
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.csproj.CoreCompileInputs.cache
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.AssemblyInfoInputs.cache
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.AssemblyInfo.cs
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.dll
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.pdb
+F:\visual_studio\problem_of _csharp\MiniCalculationGame\MiniCalculationGame\obj\Debug\netcoreapp3.1\MiniCalculationGame.genruntimeconfig.cache

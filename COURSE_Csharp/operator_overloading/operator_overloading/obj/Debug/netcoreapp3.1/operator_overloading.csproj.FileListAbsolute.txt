@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\bin\Debug\netcoreapp3.1\operator_overloading.exe
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\bin\Debug\netcoreapp3.1\operator_overloading.deps.json
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\bin\Debug\netcoreapp3.1\operator_overloading.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\bin\Debug\netcoreapp3.1\operator_overloading.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\bin\Debug\netcoreapp3.1\operator_overloading.dll
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\bin\Debug\netcoreapp3.1\operator_overloading.pdb
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.dll
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.pdb
+F:\visual_studio\COURSE_Csharp\operator_overloading\operator_overloading\obj\Debug\netcoreapp3.1\operator_overloading.genruntimeconfig.cache

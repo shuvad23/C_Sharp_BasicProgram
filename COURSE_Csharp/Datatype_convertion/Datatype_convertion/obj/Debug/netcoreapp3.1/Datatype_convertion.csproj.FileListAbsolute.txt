@@ -1,0 +1,12 @@
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\bin\Debug\netcoreapp3.1\Datatype_convertion.exe
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\bin\Debug\netcoreapp3.1\Datatype_convertion.deps.json
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\bin\Debug\netcoreapp3.1\Datatype_convertion.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\bin\Debug\netcoreapp3.1\Datatype_convertion.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\bin\Debug\netcoreapp3.1\Datatype_convertion.dll
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\bin\Debug\netcoreapp3.1\Datatype_convertion.pdb
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\obj\Debug\netcoreapp3.1\Datatype_convertion.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\obj\Debug\netcoreapp3.1\Datatype_convertion.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\obj\Debug\netcoreapp3.1\Datatype_convertion.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\obj\Debug\netcoreapp3.1\Datatype_convertion.dll
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\obj\Debug\netcoreapp3.1\Datatype_convertion.pdb
+F:\visual_studio\COURSE_Csharp\Datatype_convertion\Datatype_convertion\obj\Debug\netcoreapp3.1\Datatype_convertion.genruntimeconfig.cache

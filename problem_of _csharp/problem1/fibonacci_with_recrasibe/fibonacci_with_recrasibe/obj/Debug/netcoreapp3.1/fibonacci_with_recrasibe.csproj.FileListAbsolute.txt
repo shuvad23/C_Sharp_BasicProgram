@@ -1,0 +1,12 @@
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\bin\Debug\netcoreapp3.1\fibonacci_with_recrasibe.exe
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\bin\Debug\netcoreapp3.1\fibonacci_with_recrasibe.deps.json
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\bin\Debug\netcoreapp3.1\fibonacci_with_recrasibe.runtimeconfig.json
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\bin\Debug\netcoreapp3.1\fibonacci_with_recrasibe.runtimeconfig.dev.json
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\bin\Debug\netcoreapp3.1\fibonacci_with_recrasibe.dll
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\bin\Debug\netcoreapp3.1\fibonacci_with_recrasibe.pdb
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\obj\Debug\netcoreapp3.1\fibonacci_with_recrasibe.csproj.CoreCompileInputs.cache
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\obj\Debug\netcoreapp3.1\fibonacci_with_recrasibe.AssemblyInfoInputs.cache
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\obj\Debug\netcoreapp3.1\fibonacci_with_recrasibe.AssemblyInfo.cs
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\obj\Debug\netcoreapp3.1\fibonacci_with_recrasibe.dll
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\obj\Debug\netcoreapp3.1\fibonacci_with_recrasibe.pdb
+F:\visual_studio\csharpproblem\fibonacci_with_recrasibe\fibonacci_with_recrasibe\obj\Debug\netcoreapp3.1\fibonacci_with_recrasibe.genruntimeconfig.cache

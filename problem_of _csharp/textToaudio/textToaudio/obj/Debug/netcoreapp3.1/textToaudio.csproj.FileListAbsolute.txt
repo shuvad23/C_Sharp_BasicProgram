@@ -1,0 +1,16 @@
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\textToaudio.exe
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\textToaudio.deps.json
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\textToaudio.runtimeconfig.json
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\textToaudio.runtimeconfig.dev.json
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\textToaudio.dll
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\textToaudio.pdb
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\System.Speech.dll
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\bin\Debug\netcoreapp3.1\System.Speech.xml
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.csprojAssemblyReference.cache
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.csproj.CoreCompileInputs.cache
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.AssemblyInfoInputs.cache
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.AssemblyInfo.cs
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.csproj.CopyComplete
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.dll
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.pdb
+F:\visual_studio\problem_of _csharp\textToaudio\textToaudio\obj\Debug\netcoreapp3.1\textToaudio.genruntimeconfig.cache

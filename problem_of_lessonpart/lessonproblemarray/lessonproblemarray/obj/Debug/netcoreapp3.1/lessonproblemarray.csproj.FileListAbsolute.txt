@@ -1,0 +1,13 @@
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.csprojAssemblyReference.cache
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.csproj.CoreCompileInputs.cache
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.AssemblyInfoInputs.cache
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.AssemblyInfo.cs
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\bin\Debug\netcoreapp3.1\lessonproblemarray.exe
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\bin\Debug\netcoreapp3.1\lessonproblemarray.deps.json
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\bin\Debug\netcoreapp3.1\lessonproblemarray.runtimeconfig.json
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\bin\Debug\netcoreapp3.1\lessonproblemarray.runtimeconfig.dev.json
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\bin\Debug\netcoreapp3.1\lessonproblemarray.dll
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\bin\Debug\netcoreapp3.1\lessonproblemarray.pdb
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.dll
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.pdb
+F:\visual_studio\lessonproblem\lessonproblemarray\lessonproblemarray\obj\Debug\netcoreapp3.1\lessonproblemarray.genruntimeconfig.cache

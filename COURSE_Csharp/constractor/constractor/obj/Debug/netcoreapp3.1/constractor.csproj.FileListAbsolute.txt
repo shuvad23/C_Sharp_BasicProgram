@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\constractor\constractor\bin\Debug\netcoreapp3.1\constractor.exe
+F:\visual_studio\COURSE_Csharp\constractor\constractor\bin\Debug\netcoreapp3.1\constractor.deps.json
+F:\visual_studio\COURSE_Csharp\constractor\constractor\bin\Debug\netcoreapp3.1\constractor.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\constractor\constractor\bin\Debug\netcoreapp3.1\constractor.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\constractor\constractor\bin\Debug\netcoreapp3.1\constractor.dll
+F:\visual_studio\COURSE_Csharp\constractor\constractor\bin\Debug\netcoreapp3.1\constractor.pdb
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.dll
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.pdb
+F:\visual_studio\COURSE_Csharp\constractor\constractor\obj\Debug\netcoreapp3.1\constractor.genruntimeconfig.cache

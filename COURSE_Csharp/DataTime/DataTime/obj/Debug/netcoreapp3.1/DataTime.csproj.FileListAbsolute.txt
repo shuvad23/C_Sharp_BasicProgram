@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\bin\Debug\netcoreapp3.1\DataTime.exe
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\bin\Debug\netcoreapp3.1\DataTime.deps.json
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\bin\Debug\netcoreapp3.1\DataTime.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\bin\Debug\netcoreapp3.1\DataTime.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\bin\Debug\netcoreapp3.1\DataTime.dll
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\bin\Debug\netcoreapp3.1\DataTime.pdb
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.dll
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.pdb
+F:\visual_studio\COURSE_Csharp\DataTime\DataTime\obj\Debug\netcoreapp3.1\DataTime.genruntimeconfig.cache

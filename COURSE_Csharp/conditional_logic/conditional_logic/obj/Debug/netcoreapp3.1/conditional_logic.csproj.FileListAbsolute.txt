@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\bin\Debug\netcoreapp3.1\conditional_logic.exe
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\bin\Debug\netcoreapp3.1\conditional_logic.deps.json
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\bin\Debug\netcoreapp3.1\conditional_logic.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\bin\Debug\netcoreapp3.1\conditional_logic.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\bin\Debug\netcoreapp3.1\conditional_logic.dll
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\bin\Debug\netcoreapp3.1\conditional_logic.pdb
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.dll
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.pdb
+F:\visual_studio\COURSE_Csharp\conditional_logic\conditional_logic\obj\Debug\netcoreapp3.1\conditional_logic.genruntimeconfig.cache

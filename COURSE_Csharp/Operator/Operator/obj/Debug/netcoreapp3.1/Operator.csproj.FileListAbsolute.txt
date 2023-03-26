@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+F:\visual_studio\COURSE_Csharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+F:\visual_studio\COURSE_Csharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+F:\visual_studio\COURSE_Csharp\Operator\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+F:\visual_studio\COURSE_Csharp\Operator\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

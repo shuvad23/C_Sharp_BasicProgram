@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\bin\Debug\netcoreapp3.1\try-catch-finally-throw.exe
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\bin\Debug\netcoreapp3.1\try-catch-finally-throw.deps.json
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\bin\Debug\netcoreapp3.1\try-catch-finally-throw.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\bin\Debug\netcoreapp3.1\try-catch-finally-throw.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\bin\Debug\netcoreapp3.1\try-catch-finally-throw.dll
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\bin\Debug\netcoreapp3.1\try-catch-finally-throw.pdb
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.dll
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.pdb
+F:\visual_studio\COURSE_Csharp\try-catch-finally-throw\try-catch-finally-throw\obj\Debug\netcoreapp3.1\try-catch-finally-throw.genruntimeconfig.cache

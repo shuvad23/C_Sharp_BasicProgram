@@ -1,0 +1,13 @@
+F:\visual_studio\csharpproblem\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.exe
+F:\visual_studio\csharpproblem\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.deps.json
+F:\visual_studio\csharpproblem\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.json
+F:\visual_studio\csharpproblem\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.dev.json
+F:\visual_studio\csharpproblem\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.dll
+F:\visual_studio\csharpproblem\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.pdb
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.csprojAssemblyReference.cache
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.csproj.CoreCompileInputs.cache
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfoInputs.cache
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfo.cs
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.dll
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.pdb
+F:\visual_studio\csharpproblem\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.genruntimeconfig.cache

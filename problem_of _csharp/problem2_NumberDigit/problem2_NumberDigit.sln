@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem2_NumberDigit", "problem2_NumberDigit\problem2_NumberDigit.csproj", "{4CBD1FBA-2503-4114-9534-EFF9186C834F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBD1FBA-2503-4114-9534-EFF9186C834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBD1FBA-2503-4114-9534-EFF9186C834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBD1FBA-2503-4114-9534-EFF9186C834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBD1FBA-2503-4114-9534-EFF9186C834F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA433720-0461-4840-99BD-6819C6E58DFF}
+	EndGlobalSection
+EndGlobal

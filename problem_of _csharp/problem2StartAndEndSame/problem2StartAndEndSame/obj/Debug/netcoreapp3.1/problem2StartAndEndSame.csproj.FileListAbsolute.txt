@@ -1,0 +1,13 @@
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\bin\Debug\netcoreapp3.1\problem2StartAndEndSame.exe
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\bin\Debug\netcoreapp3.1\problem2StartAndEndSame.deps.json
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\bin\Debug\netcoreapp3.1\problem2StartAndEndSame.runtimeconfig.json
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\bin\Debug\netcoreapp3.1\problem2StartAndEndSame.runtimeconfig.dev.json
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\bin\Debug\netcoreapp3.1\problem2StartAndEndSame.dll
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\bin\Debug\netcoreapp3.1\problem2StartAndEndSame.pdb
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.csprojAssemblyReference.cache
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.csproj.CoreCompileInputs.cache
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.AssemblyInfoInputs.cache
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.AssemblyInfo.cs
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.dll
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.pdb
+F:\visual_studio\csharpproblem\problem2StartAndEndSame\problem2StartAndEndSame\obj\Debug\netcoreapp3.1\problem2StartAndEndSame.genruntimeconfig.cache

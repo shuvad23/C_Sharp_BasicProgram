@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\bin\Debug\netcoreapp3.1\Debugging_csharpCode.exe
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\bin\Debug\netcoreapp3.1\Debugging_csharpCode.deps.json
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\bin\Debug\netcoreapp3.1\Debugging_csharpCode.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\bin\Debug\netcoreapp3.1\Debugging_csharpCode.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\bin\Debug\netcoreapp3.1\Debugging_csharpCode.dll
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\bin\Debug\netcoreapp3.1\Debugging_csharpCode.pdb
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.dll
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.pdb
+F:\visual_studio\COURSE_Csharp\Debugging_csharpCode\Debugging_csharpCode\obj\Debug\netcoreapp3.1\Debugging_csharpCode.genruntimeconfig.cache

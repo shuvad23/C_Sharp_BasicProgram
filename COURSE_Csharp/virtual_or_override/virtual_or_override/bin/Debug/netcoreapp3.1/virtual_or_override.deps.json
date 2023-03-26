@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "virtual_or_override/1.0.0": {
+        "runtime": {
+          "virtual_or_override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "virtual_or_override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

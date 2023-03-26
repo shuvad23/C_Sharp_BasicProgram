@@ -1,0 +1,13 @@
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\bin\Debug\netcoreapp3.1\problem2_NumberDigit.exe
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\bin\Debug\netcoreapp3.1\problem2_NumberDigit.deps.json
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\bin\Debug\netcoreapp3.1\problem2_NumberDigit.runtimeconfig.json
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\bin\Debug\netcoreapp3.1\problem2_NumberDigit.runtimeconfig.dev.json
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\bin\Debug\netcoreapp3.1\problem2_NumberDigit.dll
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\bin\Debug\netcoreapp3.1\problem2_NumberDigit.pdb
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.csprojAssemblyReference.cache
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.csproj.CoreCompileInputs.cache
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.AssemblyInfoInputs.cache
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.AssemblyInfo.cs
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.dll
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.pdb
+F:\visual_studio\csharpproblem\problem2_NumberDigit\problem2_NumberDigit\obj\Debug\netcoreapp3.1\problem2_NumberDigit.genruntimeconfig.cache

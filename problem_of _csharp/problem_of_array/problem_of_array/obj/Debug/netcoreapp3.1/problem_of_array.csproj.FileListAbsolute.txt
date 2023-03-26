@@ -1,0 +1,12 @@
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\bin\Debug\netcoreapp3.1\problem_of_array.exe
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\bin\Debug\netcoreapp3.1\problem_of_array.deps.json
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\bin\Debug\netcoreapp3.1\problem_of_array.runtimeconfig.json
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\bin\Debug\netcoreapp3.1\problem_of_array.runtimeconfig.dev.json
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\bin\Debug\netcoreapp3.1\problem_of_array.dll
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\bin\Debug\netcoreapp3.1\problem_of_array.pdb
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\obj\Debug\netcoreapp3.1\problem_of_array.csproj.CoreCompileInputs.cache
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\obj\Debug\netcoreapp3.1\problem_of_array.AssemblyInfoInputs.cache
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\obj\Debug\netcoreapp3.1\problem_of_array.AssemblyInfo.cs
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\obj\Debug\netcoreapp3.1\problem_of_array.dll
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\obj\Debug\netcoreapp3.1\problem_of_array.pdb
+F:\visual_studio\csharpProject\problem_of_array\problem_of_array\obj\Debug\netcoreapp3.1\problem_of_array.genruntimeconfig.cache

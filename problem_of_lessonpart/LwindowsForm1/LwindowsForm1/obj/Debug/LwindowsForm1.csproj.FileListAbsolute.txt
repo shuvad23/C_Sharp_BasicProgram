@@ -1,0 +1,10 @@
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\bin\Debug\LwindowsForm1.exe.config
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\bin\Debug\LwindowsForm1.exe
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\bin\Debug\LwindowsForm1.pdb
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.csprojAssemblyReference.cache
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.Form1.resources
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.Properties.Resources.resources
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.csproj.GenerateResource.cache
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.csproj.CoreCompileInputs.cache
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.exe
+F:\visual_studio\lessonproblem\LwindowsForm1\LwindowsForm1\obj\Debug\LwindowsForm1.pdb

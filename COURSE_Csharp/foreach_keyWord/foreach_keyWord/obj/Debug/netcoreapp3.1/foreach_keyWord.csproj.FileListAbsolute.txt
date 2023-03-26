@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\bin\Debug\netcoreapp3.1\foreach_keyWord.exe
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\bin\Debug\netcoreapp3.1\foreach_keyWord.deps.json
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\bin\Debug\netcoreapp3.1\foreach_keyWord.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\bin\Debug\netcoreapp3.1\foreach_keyWord.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\bin\Debug\netcoreapp3.1\foreach_keyWord.dll
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\bin\Debug\netcoreapp3.1\foreach_keyWord.pdb
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.dll
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.pdb
+F:\visual_studio\COURSE_Csharp\foreach_keyWord\foreach_keyWord\obj\Debug\netcoreapp3.1\foreach_keyWord.genruntimeconfig.cache

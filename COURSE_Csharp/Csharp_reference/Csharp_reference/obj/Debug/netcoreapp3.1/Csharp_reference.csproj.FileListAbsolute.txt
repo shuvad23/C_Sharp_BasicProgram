@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\bin\Debug\netcoreapp3.1\Csharp_reference.exe
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\bin\Debug\netcoreapp3.1\Csharp_reference.deps.json
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\bin\Debug\netcoreapp3.1\Csharp_reference.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\bin\Debug\netcoreapp3.1\Csharp_reference.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\bin\Debug\netcoreapp3.1\Csharp_reference.dll
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\bin\Debug\netcoreapp3.1\Csharp_reference.pdb
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.dll
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.pdb
+F:\visual_studio\COURSE_Csharp\Csharp_reference\Csharp_reference\obj\Debug\netcoreapp3.1\Csharp_reference.genruntimeconfig.cache

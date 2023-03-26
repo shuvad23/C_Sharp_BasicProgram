@@ -1,0 +1,13 @@
+F:\visual_studio\array_problem\array_problem\bin\Debug\netcoreapp3.1\array_problem.exe
+F:\visual_studio\array_problem\array_problem\bin\Debug\netcoreapp3.1\array_problem.deps.json
+F:\visual_studio\array_problem\array_problem\bin\Debug\netcoreapp3.1\array_problem.runtimeconfig.json
+F:\visual_studio\array_problem\array_problem\bin\Debug\netcoreapp3.1\array_problem.runtimeconfig.dev.json
+F:\visual_studio\array_problem\array_problem\bin\Debug\netcoreapp3.1\array_problem.dll
+F:\visual_studio\array_problem\array_problem\bin\Debug\netcoreapp3.1\array_problem.pdb
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.csprojAssemblyReference.cache
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.csproj.CoreCompileInputs.cache
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.AssemblyInfoInputs.cache
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.AssemblyInfo.cs
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.dll
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.pdb
+F:\visual_studio\array_problem\array_problem\obj\Debug\netcoreapp3.1\array_problem.genruntimeconfig.cache

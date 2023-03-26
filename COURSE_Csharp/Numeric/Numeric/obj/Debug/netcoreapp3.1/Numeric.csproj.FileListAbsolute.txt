@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\bin\Debug\netcoreapp3.1\Numeric.exe
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\bin\Debug\netcoreapp3.1\Numeric.deps.json
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\bin\Debug\netcoreapp3.1\Numeric.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\bin\Debug\netcoreapp3.1\Numeric.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\bin\Debug\netcoreapp3.1\Numeric.dll
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\bin\Debug\netcoreapp3.1\Numeric.pdb
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.dll
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.pdb
+F:\visual_studio\COURSE_Csharp\Numeric\Numeric\obj\Debug\netcoreapp3.1\Numeric.genruntimeconfig.cache

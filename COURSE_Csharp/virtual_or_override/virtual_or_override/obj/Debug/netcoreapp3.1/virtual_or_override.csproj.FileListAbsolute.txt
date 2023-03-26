@@ -1,0 +1,13 @@
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\bin\Debug\netcoreapp3.1\virtual_or_override.exe
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\bin\Debug\netcoreapp3.1\virtual_or_override.deps.json
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\bin\Debug\netcoreapp3.1\virtual_or_override.runtimeconfig.json
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\bin\Debug\netcoreapp3.1\virtual_or_override.runtimeconfig.dev.json
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\bin\Debug\netcoreapp3.1\virtual_or_override.dll
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\bin\Debug\netcoreapp3.1\virtual_or_override.pdb
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.csprojAssemblyReference.cache
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.csproj.CoreCompileInputs.cache
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.AssemblyInfoInputs.cache
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.AssemblyInfo.cs
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.dll
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.pdb
+F:\visual_studio\COURSE_Csharp\virtual_or_override\virtual_or_override\obj\Debug\netcoreapp3.1\virtual_or_override.genruntimeconfig.cache
